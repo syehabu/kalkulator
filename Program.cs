@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.Title = "Aplikasi Kalklator ";
+            Console.Title = "Aplikasi Kalklator by Nalendra Harva M";
             Console.WriteLine("Pilihlah Kalkulator : ");
             Console.WriteLine();
 
